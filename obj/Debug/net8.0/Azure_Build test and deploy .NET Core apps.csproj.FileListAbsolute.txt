@@ -1,0 +1,28 @@
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\appsettings.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.staticwebassets.runtime.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.staticwebassets.endpoints.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.exe
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.deps.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.runtimeconfig.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.dll
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\bin\Debug\net8.0\Azure_Build test and deploy .NET Core apps.pdb
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.AssemblyInfoInputs.cache
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.AssemblyInfo.cs
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.RazorAssemblyInfo.cache
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.RazorAssemblyInfo.cs
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\scopedcss\bundle\Azure_Build test and deploy .NET Core apps.styles.css
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\scopedcss\projectbundle\Azure_Build test and deploy .NET Core apps.bundle.scp.css
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.dll
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\refint\Azure_Build test and deploy .NET Core apps.dll
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.pdb
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\Azure_Build test and deploy .NET Core apps.genruntimeconfig.cache
+C:\Users\Andre\Learning\Microsoft\Azure_Build test and deploy .NET Core apps\obj\Debug\net8.0\ref\Azure_Build test and deploy .NET Core apps.dll
